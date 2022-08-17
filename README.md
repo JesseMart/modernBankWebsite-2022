@@ -3,5 +3,10 @@
 
 ----------------
 
-This is a practice website to learn the use of **JSX** and how to better use repetitive styles with **Tailwind**.
-The Map function for arrays is also used a great deal for links, images, client testimonials etc.
+### This is a practice website to learn the use of **JSX** and how to better use repetitive styles with **Tailwind**.
+
+<img width="1263" alt="Screen Shot 2022-08-17 at 5 05 33 PM" src="https://user-images.githubusercontent.com/59817432/185253101-18a726b7-07d8-458b-bc26-568778436122.png">
+
+----------------
+
+### The Map function for arrays is also used a great deal for links, images, client testimonials etc.
